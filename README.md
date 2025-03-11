@@ -18,7 +18,7 @@ GenBI is an **AI-driven Data Analysis & Visualization App** that leverages **Lar
 Clone the repository and install dependencies:
 ```bash
 # Clone the repository
-git clone [Your GitHub Repo URL]
+git clone https://github.com/Him24041999/ByteMind-An-AI-powered-Data-Analysis-Visualization-App
 cd GenBI
 
 # Install dependencies
